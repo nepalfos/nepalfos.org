@@ -1,6 +1,6 @@
-# Jekyll Play
+# Nepal Free & Open Source Hub(NepalFOS)
 
-This is the minimal [Jekyll](https://jekyllrb.com) base template to quickly start playing with.
+Leading the "Free and Open Source" movement in Nepal.
 
 # What it includes
 
